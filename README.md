@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isabele Amaro</h1>
 <h3 align="center">Information Systems student from Rio de Janeiro</h3>
 
-- 🌱 I’m currently learning **Java, Containers, Golang**
+- 🌱 I’m currently learning **Java, Containers, Golang, Low Code Development (Microsoft PowerApps)**
+
+- 🏦 I'm currently a intern @ Banco Nacional de Desenvolvimento Econômico e Social
 
 - 📫 How to reach me **isabeleamaro@edu.unirio.br**
 
