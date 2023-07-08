@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Golang, Low Code Development (Microsoft Power Platform)**
 
-- 🏦 I'm currently a intern @ Banco Nacional de Desenvolvimento Econômico e Social
+- 🏦 I'm currently an intern @ Banco Nacional de Desenvolvimento Econômico e Social
 
 - 📫 How to reach me **isabeleamaro@edu.unirio.br**
 
