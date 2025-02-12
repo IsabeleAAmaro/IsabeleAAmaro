@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isabele Amaro</h1>
 <h3 align="center">Information Systems student from Rio de Janeiro</h3>
 
-- 🌱 I’m currently learning **Python,, Django, Java, Angular**
+- 🌱 I’m currently learning **Python, Django, Java, Angular**
 
 - 🏦 I'm currently an intern @ Banco Nacional de Desenvolvimento Econômico e Social
 
